@@ -1,6 +1,8 @@
-# Essentials
+# Angular Project Management Task App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+
+![Alt text](https://github.com/fion21/angular-PM/blob/master/task-app.png)
 
 ## Development server
 
